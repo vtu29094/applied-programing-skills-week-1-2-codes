@@ -6,6 +6,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0735-asteroid-collision) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -115,4 +118,16 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0641-design-circular-deque) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
