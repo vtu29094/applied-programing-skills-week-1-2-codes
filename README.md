@@ -134,6 +134,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0641-design-circular-deque) |
@@ -190,5 +191,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
