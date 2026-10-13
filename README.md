@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
@@ -17,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
 ## Stack
@@ -77,6 +79,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
