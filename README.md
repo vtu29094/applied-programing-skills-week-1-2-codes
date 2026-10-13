@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
@@ -154,6 +155,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
