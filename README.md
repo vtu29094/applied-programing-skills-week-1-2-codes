@@ -96,6 +96,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0641-design-circular-deque) |
@@ -193,4 +195,16 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
