@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0496-next-greater-element-i) |
@@ -135,6 +136,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0075-sort-colors) |
 | [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -144,6 +146,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -158,4 +161,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0704-binary-search) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
