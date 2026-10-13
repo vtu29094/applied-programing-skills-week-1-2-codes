@@ -11,6 +11,7 @@
 | [0641-design-circular-deque](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
@@ -129,8 +130,13 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
