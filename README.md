@@ -135,6 +135,7 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0075-sort-colors](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
