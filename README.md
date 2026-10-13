@@ -10,6 +10,7 @@
 | [0621-task-scheduler](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0641-design-circular-deque) |
+| [0704-binary-search](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0977-squares-of-a-sorted-array) |
@@ -153,4 +154,8 @@
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu29094/applied-programing-skills-week-1-2-codes/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
